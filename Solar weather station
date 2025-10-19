@@ -1,0 +1,4 @@
+This ia poject on solar weather station
+This mainly detects 5 weather parameters light intensity, Temparature, Humidity, Windspeed, UV Intensity
+All this data we will upload in the Thingspeak website
+All the weather parameters of this particular one will be accessed in one place itself
